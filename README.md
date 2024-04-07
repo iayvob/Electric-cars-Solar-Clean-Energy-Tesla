@@ -1,4 +1,4 @@
-<div align='center'><img style="width:30%" src=''/></div>
+<div align='center'><img style="width:30%" src='./public/images/tesla.svg'/></div>
 
 <h2>About the project</h2>
 
